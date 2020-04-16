@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngAuction"
+    }
+  },
+  "defaultProject": "ngAuction",
+  "cli": {
+    "analytics": "abca8acf-2904-4e56-8f5a-d0e04d8b622d"
+  }
 }
