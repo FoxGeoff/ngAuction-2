@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
-import { CarpuselComponent } from './carpusel/carpusel.component';
 import { CarouselComponent } from './carousel/carousel.component';
 import { FooterComponent } from './footer/footer.component';
 import { NavbarComponent } from './navbar/navbar.component';
@@ -17,7 +16,6 @@ import { StarsComponent } from './stars/stars.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    CarpuselComponent,
     CarouselComponent,
     FooterComponent,
     NavbarComponent,
