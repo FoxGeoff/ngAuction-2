@@ -18,7 +18,25 @@ const products = [
    description: `This is a short description.
    Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
    categories: ['books']
- }];
+ },
+ {
+  id: 2,
+  title: 'Third Product',
+  price: 7.99,
+  rating: 4.3,
+  description: `This is a short description.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
+  categories: ['electronics', 'hardware']
+},
+{
+  id: 3,
+  title: 'Fouth Product',
+  price: 120.09,
+  rating: 3.5,
+  description: `This is a short description.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
+  categories: ['books']
+}];
 
 export class Product {
   constructor(
